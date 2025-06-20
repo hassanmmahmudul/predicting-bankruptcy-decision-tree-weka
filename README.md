@@ -14,4 +14,4 @@ Forest (RF) are used to measure the accuracy. Data mining tool
 WEKA (Waikato Environment for Knowledge Analysis) has used
 for performing such five classification algorithms, RandomForest
 algorithm outperforms other algorithms by yielding an accuracy
-of 100%.</br>M/br>Index Terms—Data mining, bankruptcy, weka, random tree, J48, RandomForest.***
+of 100%.</br></br>Index Terms—Data mining, bankruptcy, weka, random tree, J48, RandomForest.***
