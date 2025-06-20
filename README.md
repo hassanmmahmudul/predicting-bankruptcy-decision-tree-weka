@@ -1,4 +1,5 @@
 # Bankruptcy Prediction Using Decision Tree Classifiers in WEKA
+### IEEE standard research paper
 ***Abstract<br/>
 Data Mining, discovers and extracts useful patterns
 from large set of data to find observable patterns. This paper
@@ -13,4 +14,4 @@ Forest (RF) are used to measure the accuracy. Data mining tool
 WEKA (Waikato Environment for Knowledge Analysis) has used
 for performing such five classification algorithms, RandomForest
 algorithm outperforms other algorithms by yielding an accuracy
-of 100%.***
+of 100%.</br>M/br>Index Terms—Data mining, bankruptcy, weka, random tree, J48, RandomForest.***
