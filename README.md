@@ -1,4 +1,4 @@
-# datascience-bankruptcy
+# Bankruptcy Prediction Using Decision Tree Classifiers in WEKA
 ***Abstract<br/>
 Data Mining, discovers and extracts useful patterns
 from large set of data to find observable patterns. This paper
